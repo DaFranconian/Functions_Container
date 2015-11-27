@@ -1,4 +1,4 @@
-## The "colmeans" function returns a vector containing the means of all columns of a given data set
+## The new "colmeans" function returns a vector containing the means of all columns of a given data set
 ## Arguments: "set" = data set for calculation; "removeNA" --> ignore NA values w/ default value "TRUE"; 
 ## if one of the values is NA in a column the mean is going to be NA as well
 
